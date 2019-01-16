@@ -1,0 +1,16 @@
+{
+  "name": "html_stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^3.0.0",
+    "trumpet": "^1.7.2"
+  }
+}
